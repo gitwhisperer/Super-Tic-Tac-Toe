@@ -23,4 +23,4 @@ This game was inspired by a video from the Vsauce YouTube channel. Check out the
 To run the game, execute the following command:
 
 ```bash
-python sup_tic_tac_toe.py
+python sttt.py
