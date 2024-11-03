@@ -15,7 +15,7 @@ This game was inspired by a video from the Vsauce YouTube channel. Check out the
 
 ## Requirements
 
-- Python 3.x
+- Python 3
 - Tkinter (usually included with Python)
 
 ## Running the Game
