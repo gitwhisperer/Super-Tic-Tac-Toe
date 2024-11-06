@@ -23,4 +23,6 @@ This game was inspired by a video from the Vsauce YouTube channel. Check out the
 To run the game, execute the following command:
 
 ```bash
+git clone https://github.com/gitwhisperer/Super-Tic-Tac-Toe.git
+cd Super-Tic-Tac-Toe
 python sttt.py
