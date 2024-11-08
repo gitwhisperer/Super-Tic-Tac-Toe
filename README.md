@@ -20,9 +20,10 @@ This game was inspired by a video from the Vsauce YouTube channel. Check out the
 
 ### To-Do
 
-- [ ] Add Interdementional travel
+- [ ] Add Interdimensional travel
 - [ ] Add time-travel
-- [ ] Add Interdimentional time-travel
+- [ ] Add Interdimensional time-travel
+- [ ] Modularizing everything into small pieces
 
 ## Running the Game
 
