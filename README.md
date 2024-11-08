@@ -18,6 +18,12 @@ This game was inspired by a video from the Vsauce YouTube channel. Check out the
 - Python 3
 - Tkinter (usually included with Python)
 
+### To-Do
+
+- [ ] Add Interdementional travel
+- [ ] Add time-travel
+- [ ] Add Interdimentional time-travel
+
 ## Running the Game
 
 To run the game, execute the following command:
